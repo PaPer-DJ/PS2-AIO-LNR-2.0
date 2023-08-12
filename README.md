@@ -11,8 +11,8 @@ Esto servirá como repositorio de las herramientas modificadas que he van inclui
 De esta manera se podrán descargar de forma independiente en caso de así necesitarlo, puesto que algunas de 
 las herramientas creadas o modificadas pueden ser de gran utilidad para la Scene de PS2
 
-1.- 🚩 SUSCRIBETE y Dale a la Campanita si quieres algo del Pack! 🔔
-↪️ https://bit.ly/LaNaveRETRO_YouTube 
+1.- 🚩 SUSCRIBETE y Dale a la Campanita si quieres algo del Pack! 🔔 
+↪️ https://bit.ly/LaNaveRETRO_YouTube
 
 2.- 📲 Deja Like y Comentario en el Vídeo si quieres algo pack! Así me haces saber que os gusta mi trabajo y siga con ello!
 ↪️ https://youtu.be/vUOo-FpLljQ 
