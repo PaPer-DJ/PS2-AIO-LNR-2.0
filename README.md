@@ -22,7 +22,7 @@ las herramientas creadas o modificadas pueden ser de gran utilidad para la Scene
 3.- 📲 Si tienes Dudas o Buscas Descargas 👉 Ir a https://t.me/LaNaveRETRO
 
 
-**¿Buscas el Instalador Guiado de FMCB Personalizado por LaNaveRETRO?**
+*¿Buscas el Instalador Guiado de FMCB Personalizado por LaNaveRETRO?*
 
 Aquí cómo usarlo: https://youtu.be/QY2aDe7Gfkg 
 
