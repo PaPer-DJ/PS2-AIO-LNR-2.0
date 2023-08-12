@@ -26,7 +26,7 @@ las herramientas creadas o modificadas pueden ser de gran utilidad para la Scene
 
 Aquí cómo usarlo: https://youtu.be/QY2aDe7Gfkg 
 
-👉 [FMCB_LNR-1.953+] (https://github.com/PaPer-DJ/PS2-AIO-LNR-2.0/raw/main/_FMCB_LNR-1.953%2B.zip/) (Para consolas Rebeldes con CHIP Instalado) [No recomendado] 
+👉 [FMCB_LNR-1.953+] (https://github.com/PaPer-DJ/PS2-AIO-LNR-2.0/raw/main/_FMCB_LNR-1.953%2B.zip) Para consolas Rebeldes con CHIP Instalado [No recomendado] 
 
 👉 [FMCB_LNR-1.965+] (https://github.com/PaPer-DJ/PS2-AIO-LNR-2.0/raw/main/_FMCB_LNR-1.965%2B.zip) (Para consolas con CHIP Instalado) [Recomendado] 
 
