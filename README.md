@@ -1,6 +1,8 @@
 # PS2-AIO-LNR-2.0
 PS2 All In One Suite - TOOLS and And Apps
 
+¿Buscas el Pack PS2 AIO LNR 2.0?
+👉 https://youtu.be/QY2aDe7Gfkg
 Información OFICIAL del Pack:
 👉 https://telegra.ph/PS2-AIO-LNR-20-Pack-04-27
 
@@ -14,3 +16,12 @@ las herramientas creadas o modificadas pueden ser de gran utilidad para la Scene
 ↪️ https://youtu.be/vUOo-FpLljQ 
 
 3.- 📲 Si tienes Dudas o Buscas Descargas 👉 Ir a https://t.me/LaNaveRETRO
+
+
+¿Buscas el Instalador Guiado de FMCB Personalizado por LaNaveRETRO?
+
+Aquí cómo usarlo: https://youtu.be/QY2aDe7Gfkg
+
+👉 FMCB_LNR-1.953+ (Para consolas Rebeldes con CHIP Instalado) [No recomendado]
+👉 FMCB_LNR-1.965+ (Para consolas con CHIP Instalado) [Recomendado]
+👉 FMCB_LNR-1.966+ (Para todas las consolas SIN CHIP) [Ideal]
