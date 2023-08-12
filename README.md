@@ -1,5 +1,4 @@
-# PS2 AIO LNR 2.0
-PS2 All In One Suite - TOOLS and And Apps
+# PS2 AIO LNR 2.0 - Tools & Apps
 
 ¿Buscas el Pack PS2 AIO LNR 2.0? 
 👉 https://youtu.be/QY2aDe7Gfkg 
