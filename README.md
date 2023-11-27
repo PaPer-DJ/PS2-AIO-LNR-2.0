@@ -34,3 +34,5 @@ Aquí cómo usarlo: https://youtu.be/QY2aDe7Gfkg
 👉 [FMCB_LNR-1.953+](https://github.com/PaPer-DJ/PS2-AIO-LNR-2.0/raw/main/_FMCB_LNR-1.953%2B.zip) (Para consolas Rebeldes con CHIP Instalado) [No recomendado]
 
 👉 [FUNTUNA-FORK-LNR](https://github.com/PaPer-DJ/PS2-AIO-LNR-2.0/raw/main/_FUNTUNA-FORK-LNR.zip) (Para consolas PS2 Series 9000) [FMCB 1.8+ LNR]
+
+[![Github All Releases](https://img.shields.io/github/downloads/PaPer-DJ/PS2-AIO-LNR-2.0/total.svg)]()
