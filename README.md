@@ -29,7 +29,7 @@ Aquí cómo usarlo: https://youtu.be/QY2aDe7Gfkg
 
 👉 [FMCB_LNR-1.965+](https://github.com/PaPer-DJ/PS2-AIO-LNR-2.0/releases/download/Rev.04/_FMCB_LNR-1.965+.zip) (Para consolas con CHIP Instalado) [Recomendado]
 
-👉 [FMCB_LNR-1.965+](https://github.com/PaPer-DJ/PS2-AIO-LNR-2.0/releases/download/Rev.04/_FMCB_LNR-1.965+HDD-exFat.zip) (Para consolas PS2 FAT con HDD Interno) [exFAT+USB+MX4]
+👉 [FMCB_LNR-1.965+](https://github.com/PaPer-DJ/PS2-AIO-LNR-2.0/releases/download/Rev.04/_FMCB_LNR-1.965+HDD-exFat.zip) (Para consolas PS2 FAT con HDD Interno) [exFAT+USB+MX4] 🔥
 
 👉 [FMCB_LNR-1.953+](https://github.com/PaPer-DJ/PS2-AIO-LNR-2.0/releases/download/Rev.04/_FMCB_LNR-1.953+.zip) (Para consolas Rebeldes con CHIP Instalado) [No recomendado]
 
